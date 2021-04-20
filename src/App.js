@@ -1,13 +1,12 @@
 import "./App.css";
+import { StarMatch } from "./DotMatch";
+
 
 function App() {
 	return (
 		<div className="App">
-			<header className="App-header">
-				<p>
-					Dot Match Game
-				</p>
-      </header>
+			
+			<StarMatch/>
       <div>
         
       </div>
