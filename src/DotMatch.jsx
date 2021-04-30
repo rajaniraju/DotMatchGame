@@ -40,7 +40,8 @@ const utils = {
   };
   
   
-	return (
+    return (
+        
 		<div className="game">
 			<div className="help">
 				Pick 1 or more numbers that sum to the number of stars
